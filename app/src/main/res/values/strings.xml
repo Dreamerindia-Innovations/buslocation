@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MEC Bus Location</string>
+    <string name="action_settings">Settings</string>
+    <string name="google_maps_key">AIzaSyBjkzsBf80f00_JSPQ-VNH6rtAm7yXrcRw</string>
+    <string name="head">Bus Location Sender</string>
+    <string name="bNo">Bus Number 01</string>
+
+</resources>
